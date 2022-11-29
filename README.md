@@ -1,2 +1,4 @@
 # program_learning
-Learn programming language
+Learn programming language: frontend, backend, database, shell scripts, web developing language
+
+Explore!
